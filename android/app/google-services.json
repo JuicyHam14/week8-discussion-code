@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "508463448026",
+    "project_id": "cmsc23-jbcortes",
+    "storage_bucket": "cmsc23-jbcortes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508463448026:android:351019242ceb9ab7080ae3",
+        "android_client_info": {
+          "package_name": "com.example.week7_networking_discussion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "508463448026-0gouijvq1imaggof51845u9q0vju2lm0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtuDjoMgkd_a16qPRN96RLFr-iLqL2kE4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "508463448026-0gouijvq1imaggof51845u9q0vju2lm0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "508463448026-gna5i94fm68a1pjujc76ji0bjpj55ubi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.week7NetworkingDiscussion"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
